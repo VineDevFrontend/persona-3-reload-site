@@ -147,3 +147,18 @@
 .img-s-a{
     filter: drop-shadow(26px 16px 0px #a71a39);
 }
+
+#section-m{
+    position: absolute;
+    top: 640%;
+    left: 5%;
+    z-index: -1;
+}
+
+.h2-m{
+    filter: drop-shadow(6px 4px 0px #4c2f56);
+}
+
+.img-m{
+    filter: drop-shadow(26px 16px 0px #4c2f56);
+}
