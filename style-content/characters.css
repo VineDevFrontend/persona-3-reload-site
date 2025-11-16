@@ -1,3 +1,4 @@
+/* MAKOTO YUKI */
 #section-m-y{
     position: absolute;
     top: 10%;
@@ -13,6 +14,23 @@
     filter: drop-shadow(26px 16px 0px #11c2fd);
 }
 
+#article-m-y{
+    position: absolute;
+    top: 40%;
+    right: 5%;
+    background-color: #fefefc;
+    color: #040708;
+    box-shadow:  12px -5px #fb0700;
+    padding: 5px 15px;
+    z-index: -1;
+}
+
+.p-m-y{
+    background-color: #040708;
+    padding: 20px 5px;
+    color: #fefefc;
+}
+/* YUKARI TAKEBA */
 #section-y-t{
     position: absolute;
     top: 80%;
@@ -28,6 +46,23 @@
     filter: drop-shadow(26px 16px 0px #f353ff);
 }
 
+#article-y-t{
+    position: absolute;
+    top: 100%;
+    right: 5%;
+    background-color: #fefefc;
+    color: #040708;
+    box-shadow:  12px -5px #fb0700;
+    padding: 5px 15px;
+    z-index: -1;
+}
+
+.p-y-t{
+    background-color: #040708;
+    padding: 20px 5px;
+    color: #fefefc;
+}
+/* JUNPEI IORI */
 #section-j-i{
     position: absolute;
     top: 140%;
@@ -43,6 +78,23 @@
     filter: drop-shadow(26px 16px 0px #2343fe);
 }
 
+#article-j-i{
+    position: absolute;
+    top: 160%;
+    right: 5%;
+    background-color: #fefefc;
+    color: #040708;
+    box-shadow:  12px -5px #fb0700;
+    padding: 5px 15px;
+    z-index: -1;
+}
+
+.p-j-i{
+    background-color: #040708;
+    padding: 20px 5px;
+    color: #fefefc;
+}
+/* AKIHIKO SANADA */
 #section-a-s{
     position: absolute;
     top: 210%;
@@ -58,6 +110,23 @@
     filter: drop-shadow(26px 16px 0px #b5bdc6);
 }
 
+#article-a-s{
+    position: absolute;
+    top: 230%;
+    right: 5%;
+    background-color: #fefefc;
+    color: #040708;
+    box-shadow:  12px -5px #fb0700;
+    padding: 5px 15px;
+    z-index: -1;
+}
+
+.p-a-s{
+    background-color: #040708;
+    padding: 20px 5px;
+    color: #fefefc;
+}
+/* MITSURU KIRIJO */
 #section-m-k{
     position: absolute;
     top: 265%;
@@ -73,6 +142,23 @@
     filter: drop-shadow(26px 16px 0px #ed1954);
 }
 
+#article-m-k{
+    position: absolute;
+    top: 290%;
+    right: 5%;
+    background-color: #fefefc;
+    color: #040708;
+    box-shadow:  12px -5px #fb0700;
+    padding: 5px 15px;
+    z-index: -1;
+}
+
+.p-m-k{
+    background-color: #040708;
+    padding: 20px 5px;
+    color: #fefefc;
+}
+/* FUUKA YAMAGISHI */
 #section-f-y{
     position: absolute;
     top: 330%;
@@ -88,6 +174,23 @@
     filter: drop-shadow(26px 16px 0px #00e7b5);
 }
 
+#article-f-y{
+    position: absolute;
+    top: 350%;
+    right: 5%;
+    background-color: #fefefc;
+    color: #040708;
+    box-shadow:  12px -5px #fb0700;
+    padding: 5px 15px;
+    z-index: -1;
+}
+
+.p-f-y{
+    background-color: #040708;
+    padding: 20px 5px;
+    color: #fefefc;
+}
+/* AIGIS */
 #section-a{
     position: absolute;
     top: 400%;
@@ -103,6 +206,23 @@
     filter: drop-shadow(26px 16px 0px #eede53);
 }
 
+#article-a{
+    position: absolute;
+    top: 425%;
+    right: 5%;
+    background-color: #fefefc;
+    color: #040708;
+    box-shadow:  12px -5px #fb0700;
+    padding: 5px 15px;
+    z-index: -1;
+}
+
+.p-a{
+    background-color: #040708;
+    padding: 20px 5px;
+    color: #fefefc;
+}
+/* KEN AMADA */
 #section-k-a{
     position: absolute;
     top: 480%;
@@ -118,6 +238,23 @@
     filter: drop-shadow(26px 16px 0px #ff7c01);
 }
 
+#article-k-a{
+    position: absolute;
+    top: 500%;
+    right: 5%;
+    background-color: #fefefc;
+    color: #040708;
+    box-shadow:  12px -5px #fb0700;
+    padding: 5px 15px;
+    z-index: -1;
+}
+
+.p-k-a{
+    background-color: #040708;
+    padding: 20px 5px;
+    color: #fefefc;
+}
+/* KOROMARU */
 #section-k{
     position: absolute;
     top: 550%;
@@ -133,6 +270,23 @@
     filter: drop-shadow(26px 16px 0px #c3c2c1);
 }
 
+#article-k{
+    position: absolute;
+    top: 565%;
+    right: 5%;
+    background-color: #fefefc;
+    color: #040708;
+    box-shadow:  12px -5px #fb0700;
+    padding: 5px 15px;
+    z-index: -1;
+}
+
+.p-k{
+    background-color: #040708;
+    padding: 20px 5px;
+    color: #fefefc;
+}
+/* SHINJIRO ARAGAKI */
 #section-s-a{
     position: absolute;
     top: 590%;
@@ -148,6 +302,23 @@
     filter: drop-shadow(26px 16px 0px #a71a39);
 }
 
+#article-s-a{
+    position: absolute;
+    top: 610%;
+    right: 5%;
+    background-color: #fefefc;
+    color: #040708;
+    box-shadow:  12px -5px #fb0700;
+    padding: 5px 15px;
+    z-index: -1;
+}
+
+.p-s-a{
+    background-color: #040708;
+    padding: 20px 5px;
+    color: #fefefc;
+}
+/* METIS */
 #section-m{
     position: absolute;
     top: 640%;
@@ -161,4 +332,21 @@
 
 .img-m{
     filter: drop-shadow(26px 16px 0px #4c2f56);
+}
+
+#article-m{
+    position: absolute;
+    top: 660%;
+    right: 5%;
+    background-color: #fefefc;
+    color: #040708;
+    box-shadow:  12px -5px #fb0700;
+    padding: 5px 15px;
+    z-index: -1;
+}
+
+.p-m{
+    background-color: #040708;
+    padding: 20px 5px;
+    color: #fefefc;
 }
