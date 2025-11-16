@@ -1,0 +1,149 @@
+#section-m-y{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    z-index: -1;
+}
+
+.h2-m-y{
+    filter: drop-shadow(6px 4px 0px #11c2fd);
+}
+
+.img-m-y{
+    filter: drop-shadow(26px 16px 0px #11c2fd);
+}
+
+#section-y-t{
+    position: absolute;
+    top: 80%;
+    left: 5%;
+    z-index: -1;
+}
+
+.h2-y-t{
+    filter: drop-shadow(6px 4px 0px #f353ff);
+}
+
+.img-y-t{
+    filter: drop-shadow(26px 16px 0px #f353ff);
+}
+
+#section-j-i{
+    position: absolute;
+    top: 140%;
+    left: 5%;
+    z-index: -1;
+}
+
+.h2-j-i{
+    filter: drop-shadow(6px 4px 0px #2343fe);
+}
+
+.img-j-i{
+    filter: drop-shadow(26px 16px 0px #2343fe);
+}
+
+#section-a-s{
+    position: absolute;
+    top: 210%;
+    left: 5%;
+    z-index: -1;
+}
+
+.h2-a-s{
+    filter: drop-shadow(6px 4px 0px #b5bdc6);
+}
+
+.img-a-s{
+    filter: drop-shadow(26px 16px 0px #b5bdc6);
+}
+
+#section-m-k{
+    position: absolute;
+    top: 265%;
+    left: 5%;
+    z-index: -1;
+}
+
+.h2-m-k{
+    filter: drop-shadow(6px 4px 0px #ed1954);
+}
+
+.img-m-k{
+    filter: drop-shadow(26px 16px 0px #ed1954);
+}
+
+#section-f-y{
+    position: absolute;
+    top: 330%;
+    left: 5%;
+    z-index: -1;
+}
+
+.h2-f-y{
+    filter: drop-shadow(6px 4px 0px #00e7b5);
+}
+
+.img-f-y{
+    filter: drop-shadow(26px 16px 0px #00e7b5);
+}
+
+#section-a{
+    position: absolute;
+    top: 400%;
+    left: 5%;
+    z-index: -1;
+}
+
+.h2-a{
+    filter: drop-shadow(6px 4px 0px #eede53);
+}
+
+.img-a{
+    filter: drop-shadow(26px 16px 0px #eede53);
+}
+
+#section-k-a{
+    position: absolute;
+    top: 480%;
+    left: 5%;
+    z-index: -1;
+}
+
+.h2-k-a{
+    filter: drop-shadow(6px 4px 0px #ff7c01);
+}
+
+.img-k-a{
+    filter: drop-shadow(26px 16px 0px #ff7c01);
+}
+
+#section-k{
+    position: absolute;
+    top: 550%;
+    left: 5%;
+    z-index: -1;
+}
+
+.h2-k{
+    filter: drop-shadow(6px 4px 0px #c3c2c1);
+}
+
+.img-k{
+    filter: drop-shadow(26px 16px 0px #c3c2c1);
+}
+
+#section-s-a{
+    position: absolute;
+    top: 590%;
+    left: 5%;
+    z-index: -1;
+}
+
+.h2-s-a{
+    filter: drop-shadow(6px 4px 0px #a71a39);
+}
+
+.img-s-a{
+    filter: drop-shadow(26px 16px 0px #a71a39);
+}

@@ -1,0 +1,64 @@
+body{
+	max-width: 100%;
+	height: auto;
+	background-color: #062ffc;
+	font-family: monospace, sans-serif;
+	color: #fefefc;
+}
+
+#nav{
+	z-index: 1978;
+}
+
+.nav-list{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #020307;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.nav-list .nav-list-link .nav-list-link-a{
+	display: block;
+	color: #fefefc;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.nav-list .nav-list-link .nav-list-link-a:hover{
+	background-color: #101a24;
+} 
+
+.nav-list .nav-list-link .nav-list-link-a.active{
+	background-color: #76fefe;
+	color: #040708;
+}
+
+#header{
+	position: fixed;
+	padding: 5px 20px;
+	left: 0;
+	top: 0;
+}
+
+.header-h1{
+	box-shadow: 10px 0px #1654ff;
+	color: #fefefc;
+}
+
+.background-00{
+	z-index: -1;
+	background-image: url(image/background/persona-3-reload-background-00.jpeg);
+	max-width: auto;
+	height: 100%;
+	position: absolute;
+	top: 4%;
+	left: 0;
+	right: 0;
+}

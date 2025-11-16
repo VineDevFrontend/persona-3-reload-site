@@ -1,0 +1,19 @@
+#section{
+	max-width: 50%;
+	height: auto;
+	background-color: #fefefc;
+	box-shadow: 10px 10px #8c121f;
+	position: absolute;
+	top: 20%;
+	right: 5%;
+}
+
+.section-h2{
+	color: #040708;
+	padding: 5px 20px;
+}
+
+.section-p-0{
+	color: #040708;
+	padding: 5px 15px;
+}
