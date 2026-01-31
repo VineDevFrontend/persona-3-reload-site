@@ -33,7 +33,7 @@
 /* YUKARI TAKEBA */
 #section-y-t{
     position: absolute;
-    top: 80%;
+    top: 90%;
     left: 5%;
     z-index: -1;
 }
@@ -48,7 +48,7 @@
 
 #article-y-t{
     position: absolute;
-    top: 100%;
+    top: 110%;
     right: 5%;
     background-color: #fefefc;
     color: #040708;
